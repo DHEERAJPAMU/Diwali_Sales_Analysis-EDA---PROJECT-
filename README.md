@@ -1,5 +1,5 @@
 # Diwali_Sales_Analysis-EDA---PROJECT-
-oject Overview
+Project Overview
 This project explores sales data from a Diwali shopping season to uncover customer behavior, product performance, and regional trends. Using Python and EDA techniques, we aim to generate actionable insights that can help businesses optimize marketing strategies and inventory planning for future festive seasons.
 📊 Objectives
 - Understand customer demographics and purchasing patterns
@@ -14,4 +14,4 @@ This project explores sales data from a Diwali shopping season to uncover custom
 - matplotlib & seaborn – data visualization
 - Jupyter Notebook – interactive analysis
 
-EDA on Diwali Sales 
+Thank You! 
